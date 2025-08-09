@@ -1,8 +1,9 @@
 'use client'
 import React from 'react'
 import { motion } from 'framer-motion'
-import GameCard from '../components/GameCard'
-import { GAMES } from '../data/games'
+// Ensure the GameCard component exists at ../components/GameCard.tsx or update the path below if needed
+import GameCard from '../src/components/GameCard'
+import { GAMES } from '../src/data/games'
 
 export default function Home(){
   return (

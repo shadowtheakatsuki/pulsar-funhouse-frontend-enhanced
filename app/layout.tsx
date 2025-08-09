@@ -1,6 +1,6 @@
 import '../styles/globals.css'
 import React from 'react'
-import Navbar from '../components/Navbar'
+import Navbar from '../src/components/Navbar'
 
 export const metadata = {
   title: 'Pulsar Funhouse',
